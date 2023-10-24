@@ -15,7 +15,7 @@
         android:layout_height="200dp"
         android:background="@drawable/homebanner"/>
     <ImageView
-        android:layout_marginTop="-105dp"
+        android:layout_marginTop="-104dp"
         android:layout_width="match_parent"
         android:layout_height="100dp"
         app:tint="#107FA1"
