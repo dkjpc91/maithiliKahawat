@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="display1">
+        <item>@string/s76</item>
+        <item>@string/s77</item>
+        <item>@string/s78</item>
+        <item>@string/s79</item>
+        <item>@string/s80</item>
+        <item>@string/s81</item>
+        <item>@string/s82</item>
+        <item>@string/s83</item>
+        <item>@string/s84</item>
+        <item>@string/s85</item>
+        <item>@string/s86</item>
+        <item>@string/s87</item>
+        <item>@string/s88</item>
+        <item>@string/s89</item>
+        <item>@string/s90</item>
+        <item>@string/s91</item>
+        <item>@string/s92</item>
+        <item>@string/s93</item>
+        <item>@string/s94</item>
+        <item>@string/s95</item>
+        <item>@string/s96</item>
+        <item>@string/s97</item>
+        <item>@string/s98</item>
+        <item>@string/s99</item>
+        <item>@string/s100</item>
+
+    </string-array>
+
+
+    <string-array name="display2">
+        <item>@string/s51</item>
+        <item>@string/s52</item>
+        <item>@string/s53</item>
+        <item>@string/s54</item>
+        <item>@string/s55</item>
+        <item>@string/s56</item>
+        <item>@string/s57</item>
+        <item>@string/s58</item>
+        <item>@string/s59</item>
+        <item>@string/s60</item>
+        <item>@string/s61</item>
+        <item>@string/s62</item>
+        <item>@string/s63</item>
+        <item>@string/s64</item>
+        <item>@string/s65</item>
+        <item>@string/s66</item>
+        <item>@string/s67</item>
+        <item>@string/s68</item>
+        <item>@string/s69</item>
+        <item>@string/s70</item>
+        <item>@string/s71</item>
+        <item>@string/s72</item>
+        <item>@string/s73</item>
+        <item>@string/s74</item>
+        <item>@string/s75</item>
+
+    </string-array>
+
+
+    <string-array name="display3">
+        <item>@string/s26</item>
+        <item>@string/s27</item>
+        <item>@string/s28</item>
+        <item>@string/s29</item>
+        <item>@string/s30</item>
+        <item>@string/s31</item>
+        <item>@string/s32</item>
+        <item>@string/s33</item>
+        <item>@string/s34</item>
+        <item>@string/s35</item>
+        <item>@string/s36</item>
+        <item>@string/s37</item>
+        <item>@string/s38</item>
+        <item>@string/s39</item>
+        <item>@string/s40</item>
+        <item>@string/s41</item>
+        <item>@string/s42</item>
+        <item>@string/s43</item>
+        <item>@string/s44</item>
+        <item>@string/s45</item>
+        <item>@string/s46</item>
+        <item>@string/s47</item>
+        <item>@string/s48</item>
+        <item>@string/s49</item>
+        <item>@string/s50</item>
+
+    </string-array>
+
+
+    <string-array name="display4">
+        <item>@string/s1</item>
+        <item>@string/s2</item>
+        <item>@string/s3</item>
+        <item>@string/s4</item>
+        <item>@string/s5</item>
+        <item>@string/s6</item>
+        <item>@string/s7</item>
+        <item>@string/s8</item>
+        <item>@string/s9</item>
+        <item>@string/s10</item>
+        <item>@string/s11</item>
+        <item>@string/s12</item>
+        <item>@string/s13</item>
+        <item>@string/s14</item>
+        <item>@string/s15</item>
+        <item>@string/s16</item>
+        <item>@string/s17</item>
+        <item>@string/s18</item>
+        <item>@string/s19</item>
+        <item>@string/s20</item>
+        <item>@string/s21</item>
+        <item>@string/s22</item>
+        <item>@string/s23</item>
+        <item>@string/s24</item>
+        <item>@string/s25</item>
+
+    </string-array>
+</resources>
