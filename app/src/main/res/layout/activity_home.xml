@@ -11,12 +11,12 @@
         <ImageView
             android:layout_marginTop="-90dp"
             android:layout_width="match_parent"
-            android:layout_height="201dp"
+            android:layout_height="204dp"
             android:background="@drawable/homebanner"/>
         <ImageView
             android:layout_marginTop="-105dp"
             android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_height="101dp"
             app:tint="#107FA1"
             android:padding="20dp"
             android:src="@drawable/home"
