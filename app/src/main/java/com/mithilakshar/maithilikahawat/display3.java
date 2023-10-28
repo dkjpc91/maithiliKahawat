@@ -21,7 +21,7 @@ public class display3 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display3);
-        shayari=getResources().getStringArray(R.array.display1);
+        shayari=getResources().getStringArray(R.array.display3);
 
         if( getSupportActionBar()!=null){
             getSupportActionBar().hide();

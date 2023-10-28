@@ -22,7 +22,7 @@ public class display2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display2);
 
-        shayari=getResources().getStringArray(R.array.display1);
+        shayari=getResources().getStringArray(R.array.display2);
 
         if( getSupportActionBar()!=null){
             getSupportActionBar().hide();
