@@ -21,6 +21,14 @@
             android:padding="20dp"
             android:src="@drawable/home"
             android:gravity="center"/>
+
+        <ImageView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:src="@drawable/b"
+        android:gravity="center"/>
+
         <GridLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
